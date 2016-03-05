@@ -1,7 +1,7 @@
 name: RobinMPhotography
 favicon: null
-layout_spectrum: 0.7572718393057585
-typography_spectrum: 0.6277053679805249
+layout_spectrum: 1
+typography_spectrum: 0.64337
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.18797152815386653
+    - '#ffffff'
+    - '#3a3a3c'
+    - '#f9a583'
+    - '#828186'
+    - '#c4c4c5'
+  brandStrength: 0.1875
   lightness: 0.7272454972844571
   saturation: 0.797219725092873
   rhythmicContrast: 0.6337664278689772

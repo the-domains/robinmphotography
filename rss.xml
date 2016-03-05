@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[RobinMPhotography]]></title>
         <description><![CDATA[RobinMPhotography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/robinmphotography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 15:23:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 18:10:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/robinmphotography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/45d6a016-7ea1-45dc-b587-ede569c9b841.jpg">]]></description>
-            <link>undefinedf0a013e7-bfc9-4aa0-a8f3-effc21e90355/index.html</link>
+            <link>https://thegrid.ai/robinmphotography/f0a013e7-bfc9-4aa0-a8f3-effc21e90355/index.html</link>
             <guid isPermaLink="false">f0a013e7-bfc9-4aa0-a8f3-effc21e90355</guid>
-            <pubDate>Sat, 05 Mar 2016 15:23:51 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2016 18:09:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
